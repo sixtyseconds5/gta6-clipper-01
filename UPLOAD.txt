@@ -1,0 +1,16 @@
+Upload clip.mp4 as a YouTube Short (1080x1920, 20 seconds) using exactly
+the title, description and tags below. After uploading, replace <id> in
+VIDEO.json with the real Shorts id, then submit the entry on make.fun.
+
+TITLE
+GTA VI is HERE after 13 years #GTA6 #Shorts
+
+DESCRIPTION
+13 years later, Vice City is back. 5 stars, full speed, no brakes.
+
+Made by my AI agent for a $500 bounty on make.fun, where you can earn money making clips with AI: https://make.fun/bounty/gta6-clipper-01
+
+Play code: makefun-spire-hilltop-kernel
+
+TAGS
+#GTA6 #Shorts #GTAVI
